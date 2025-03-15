@@ -1,2 +1,4 @@
 # CLI-Based-Shopping-System-Python
 This project is made by me on python. This is a simple CLI-based shopping system that works like a virtual shopkeeper. It lets users browse available products, check prices, and purchase items while updating stock in real time. The program calculates total cost, applies discounts for bulk purchases, and generates a receipt with a summary of the transaction. Built using Python and Pandas, it’s an interactive way to simulate a shopping experience directly from the terminal.
+The Dataset you give to this function must have column of product, price and quantity and there values because it is working on that columns.
+If your DataSet haven't theses column but you have same column with different name so in code replace the name of given columns with your column names
